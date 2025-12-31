@@ -66,6 +66,15 @@
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay) | ![Contribution Graph](https://ghchart.rshah.org/naymulislamnay) |
 
 
+## GitHub Stats
+
+### 📊 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay)
+
+### 📈 Contribution Graph
+![Contribution Graph](https://ghchart.rshah.org/naymulislamnay)
+
+
 ---
 
 ## 🛠️ Technology Stack
