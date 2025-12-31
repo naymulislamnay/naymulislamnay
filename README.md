@@ -97,7 +97,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naymulislamnay&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrnaymationhelp-2032&show_icons=true" />
 </p>
 
 ---
