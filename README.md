@@ -55,7 +55,7 @@
 ---
 | GitHub Streak | Contribution Graph |
 |:---:|:---:|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay) | ![Contribution Graph](https://ghchart.rshah.org/naymulislamnay) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay&theme=ocean-dark) | ![Contribution Graph](https://ghchart.rshah.org/naymulislamnay) |
 
 ---
 
