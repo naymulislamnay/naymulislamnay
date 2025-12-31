@@ -40,11 +40,18 @@
 
 ---
 
-## 🧠 Tech Skill Spider (Radar Chart)
+## 🧠 Tech Skills Overview
 
-<p align="center">
-  <img src="https://github-readme-radar-chart.vercel.app/api?username=naymulislamnay&skills=JavaScript,React,Node.js,Express,MongoDB,HTML,CSS&values=90,85,75,70,70,95,90&title=Tech%20Skill%20Radar" />
-</p>
+| Skill | Level |
+|------|------|
+| HTML / CSS | ██████████ 95% |
+| JavaScript | █████████░ 90% |
+| React | ████████░░ 85% |
+| Next.js | ████████░░ 80% |
+| Node.js | ███████░░░ 75% |
+| Express.js | ███████░░░ 70% |
+| MongoDB | ███████░░░ 70% |
+
 
 ---
 
