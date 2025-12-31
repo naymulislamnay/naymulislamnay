@@ -88,17 +88,37 @@
 
 ## 🛠️ Technology Stack
 
-| 🌐 Frontend | ⚙️ Backend |
+<div style="display: flex; justify-content: space-between; gap: 50px;">
+
+<!-- Frontend Table -->
+<div>
+### 🌐 Frontend
+| Technology | Proficiency |
 |------------|------------|
-| **Technology** | **Technology** |
-| HTML5 - ⭐⭐⭐⭐⭐ | Node.js - ⭐⭐⭐⭐☆ |
-| CSS3 - ⭐⭐⭐⭐⭐ | Express.js - ⭐⭐⭐⭐☆ |
-| JavaScript (ES6+) - ⭐⭐⭐⭐☆ | MongoDB - ⭐⭐⭐⭐☆ |
-| React.js - ⭐⭐⭐⭐☆ | Firebase - ⭐⭐⭐⭐☆ |
-| Next.js - ⭐⭐⭐⭐☆ | JWT Auth - ⭐⭐⭐⭐☆ |
-| Tailwind CSS - ⭐⭐⭐⭐⭐ |  |
+| HTML5 | ⭐⭐⭐⭐⭐ |
+| CSS3 | ⭐⭐⭐⭐⭐ |
+| JavaScript (ES6+) | ⭐⭐⭐⭐☆ |
+| React.js | ⭐⭐⭐⭐☆ |
+| Next.js | ⭐⭐⭐⭐☆ |
+| Tailwind CSS | ⭐⭐⭐⭐⭐ |
+</div>
+
+<!-- Backend Table -->
+<div>
+### ⚙️ Backend
+| Technology | Proficiency |
+|------------|------------|
+| Node.js | ⭐⭐⭐⭐☆ |
+| Express.js | ⭐⭐⭐⭐☆ |
+| MongoDB | ⭐⭐⭐⭐☆ |
+| Firebase | ⭐⭐⭐⭐☆ |
+| JWT Auth | ⭐⭐⭐⭐☆ |
+</div>
+
+</div>
 
 ---
+
 
 
 ## 🚀 Featured Projects
