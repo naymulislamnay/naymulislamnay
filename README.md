@@ -53,27 +53,13 @@
 </p>
 
 ---
-
- ## Github Stats
-
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymulislamnay&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymulislamnay&show_icons=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay) |
+## GitHub Stats
 
 
 | GitHub Streak | Contribution Graph |
 |:---:|:---:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay) | ![Contribution Graph](https://ghchart.rshah.org/naymulislamnay) |
 
-
-## GitHub Stats
-
-### 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naymulislamnay&theme=dark&hide_border=true)
-
-
-### 📈 Contribution Graph
-![Contribution Graph](https://ghchart.rshah.org/naymulislamnay)
 
 
 ---
