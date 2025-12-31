@@ -21,17 +21,38 @@
 
 ## 🧠 Tech Skills Overview
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
+### 🌐 Frontend Skills
+
 | Skill | Level |
 |------|------|
 | HTML / CSS | ██████████ 95% |
 | JavaScript | █████████░ 90% |
 | React | ████████░░ 85% |
 | Next.js | ████████░░ 80% |
+
+    </td>
+    <td width="40"></td>
+    <td valign="top" width="50%">
+
+### ⚙️ Backend Skills
+
+| Skill | Level |
+|------|------|
 | Node.js | ███████░░░ 75% |
 | Express.js | ███████░░░ 70% |
 | MongoDB | ███████░░░ 70% |
+| Firebase | ███████░░░ 70% |
+
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🌐 Connect With Me
 
