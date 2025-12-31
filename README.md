@@ -54,6 +54,9 @@
 
 ---
 
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymulislamnay&layout=compact&include_all_commits=true&count_private=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymulislamnay&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=naymulislamnay) |
 
 
 
