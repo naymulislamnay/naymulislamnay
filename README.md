@@ -97,7 +97,7 @@
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,node,express,mongodb,firebase,git,github,tailwind,vite,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,firebase,git,github,tailwind,vite,vercel,netlify" />
 </p>
 
 ---
