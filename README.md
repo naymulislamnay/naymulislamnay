@@ -88,11 +88,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|------|------|-----------|
-| 🩸 Blood Donation App | MERN | Role-based dashboards, Stripe funding |
-| ✈️ TravelEase | MERN | Travel management platform |
-| 🎬 Video Platform | React | Streaming, roles & permissions |
+| Project | Stack | Highlights | Live Link |
+|------|------|-----------|-----------|
+| 🩸 BloodBridge | MERN | Role-based dashboards, Stripe funding | https://blood-bridge-web12-assignmen-11.netlify.app |
+| ✈️ TravelEase | MERN | Travel management platform | https://travelease-assignment-10.netlify.app |
 
 ---
 
