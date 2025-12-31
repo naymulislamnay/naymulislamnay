@@ -58,7 +58,8 @@
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymulislamnay&layout=compact&theme=tokyonight&count_private=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymulislamnay&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay&theme=tokyonight) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymulislamnay&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymulislamnay&show_icons=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay) |
+
 
 
 
