@@ -69,7 +69,8 @@
 ## GitHub Stats
 
 ### 📊 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=naymulislamnay)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naymulislamnay&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ### 📈 Contribution Graph
 ![Contribution Graph](https://ghchart.rshah.org/naymulislamnay)
