@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+<img align="right" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
 
 - 🚀 Passionate **Frontend Web Developer**
 - ⚛️ Specialized in **React & Modern JavaScript**
