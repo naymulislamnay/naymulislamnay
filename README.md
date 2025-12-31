@@ -72,6 +72,8 @@
 | Next.js | ⭐⭐⭐⭐☆ |
 | Tailwind CSS | ⭐⭐⭐⭐⭐ |
 
+---
+
 ### ⚙️ Backend
 
 | Technology | Proficiency |
@@ -83,40 +85,6 @@
 | JWT Auth | ⭐⭐⭐⭐☆ |
 
 ---
-
----
-
----
-
-## 🛠️ Technology Stack
-
-| 🌐 Frontend | ⚙️ Backend |
-|------------|------------|
-| 
-| ### 🌐 Frontend
-| Technology | Proficiency |
-|------------|------------|
-| HTML5 | ⭐⭐⭐⭐⭐ |
-| CSS3 | ⭐⭐⭐⭐⭐ |
-| JavaScript (ES6+) | ⭐⭐⭐⭐☆ |
-| React.js | ⭐⭐⭐⭐☆ |
-| Next.js | ⭐⭐⭐⭐☆ |
-| Tailwind CSS | ⭐⭐⭐⭐⭐ |
-| 
-| ### ⚙️ Backend
-| Technology | Proficiency |
-|------------|------------|
-| Node.js | ⭐⭐⭐⭐☆ |
-| Express.js | ⭐⭐⭐⭐☆ |
-| MongoDB | ⭐⭐⭐⭐☆ |
-| Firebase | ⭐⭐⭐⭐☆ |
-| JWT Auth | ⭐⭐⭐⭐☆ |
-
----
-
----
-
-
 
 ## 🚀 Featured Projects
 
