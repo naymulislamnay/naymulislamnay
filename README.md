@@ -86,13 +86,14 @@
 
 ---
 
+---
+
 ## 🛠️ Technology Stack
 
-<div style="display: flex; justify-content: space-between; gap: 50px;">
-
-<!-- Frontend Table -->
-<div>
-### 🌐 Frontend
+| 🌐 Frontend | ⚙️ Backend |
+|------------|------------|
+| 
+| ### 🌐 Frontend
 | Technology | Proficiency |
 |------------|------------|
 | HTML5 | ⭐⭐⭐⭐⭐ |
@@ -101,11 +102,8 @@
 | React.js | ⭐⭐⭐⭐☆ |
 | Next.js | ⭐⭐⭐⭐☆ |
 | Tailwind CSS | ⭐⭐⭐⭐⭐ |
-</div>
-
-<!-- Backend Table -->
-<div>
-### ⚙️ Backend
+| 
+| ### ⚙️ Backend
 | Technology | Proficiency |
 |------------|------------|
 | Node.js | ⭐⭐⭐⭐☆ |
@@ -113,9 +111,8 @@
 | MongoDB | ⭐⭐⭐⭐☆ |
 | Firebase | ⭐⭐⭐⭐☆ |
 | JWT Auth | ⭐⭐⭐⭐☆ |
-</div>
 
-</div>
+---
 
 ---
 
