@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MD+Naymul+Islam;Frontend+Web+Developer;React+%7C+Next.js+%7C+MERN+Stack;Building+Clean+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MD+Naymul+Islam;Frontend+Web+Developer;React+%7C+Next.js+%7C+MERN+Stack;Building+Clean+%26+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
@@ -21,10 +21,29 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/naymulislamnay">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naymulislamnay">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:naymulislamnay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://wa.me/8801731150713">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 Tech Skill Spider (Radar Chart)
 
 <p align="center">
-  <img src="https://github-readme-radar-chart.vercel.app/api?username=YOUR_GITHUB_USERNAME&skills=JavaScript,React,Node.js,Express,MongoDB,HTML,CSS&values=90,85,75,70,70,95,90&title=Tech%20Skill%20Radar" />
+  <img src="https://github-readme-radar-chart.vercel.app/api?username=naymulislamnay&skills=JavaScript,React,Node.js,Express,MongoDB,HTML,CSS&values=90,85,75,70,70,95,90&title=Tech%20Skill%20Radar" />
 </p>
 
 ---
@@ -33,52 +52,50 @@
 
 ### 🌐 Frontend
 
-| Tech | Level |
-|-----|------|
+| Technology | Proficiency |
+|----------|------------|
 | HTML5 | ⭐⭐⭐⭐⭐ |
 | CSS3 | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐☆ |
+| JavaScript (ES6+) | ⭐⭐⭐⭐☆ |
 | React.js | ⭐⭐⭐⭐☆ |
 | Next.js | ⭐⭐⭐⭐☆ |
 | Tailwind CSS | ⭐⭐⭐⭐⭐ |
 
----
-
 ### ⚙️ Backend
 
-| Tech | Level |
-|-----|------|
+| Technology | Proficiency |
+|----------|------------|
 | Node.js | ⭐⭐⭐⭐☆ |
 | Express.js | ⭐⭐⭐⭐☆ |
 | MongoDB | ⭐⭐⭐⭐☆ |
 | Firebase | ⭐⭐⭐⭐☆ |
-| JWT | ⭐⭐⭐⭐☆ |
+| JWT Auth | ⭐⭐⭐⭐☆ |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Description |
-|-------|------|-------------|
+| Project | Stack | Highlights |
+|------|------|-----------|
 | 🩸 Blood Donation App | MERN | Role-based dashboards, Stripe funding |
-| ✈️ TravelEase | MERN | Travel booking & management system |
-| 🎬 Video Platform | React | Dynamic streaming & access control |
+| ✈️ TravelEase | MERN | Travel management platform |
+| 🎬 Video Platform | React | Streaming, roles & permissions |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naymulislamnay&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naymulislamnay&theme=react&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naymulislamnay&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -91,28 +108,12 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
 ## 🔥 Currently Learning
 
 - Advanced React Patterns
 - Next.js App Router
-- System Design Basics
 - Performance Optimization
+- Clean Architecture & Best Practices
 
 ---
 
