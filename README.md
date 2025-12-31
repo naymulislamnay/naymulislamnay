@@ -84,6 +84,23 @@
 
 ---
 
+---
+
+## 🛠️ Technology Stack
+
+| 🌐 Frontend | ⚙️ Backend |
+|------------|------------|
+| **Technology** | **Technology** |
+| HTML5 - ⭐⭐⭐⭐⭐ | Node.js - ⭐⭐⭐⭐☆ |
+| CSS3 - ⭐⭐⭐⭐⭐ | Express.js - ⭐⭐⭐⭐☆ |
+| JavaScript (ES6+) - ⭐⭐⭐⭐☆ | MongoDB - ⭐⭐⭐⭐☆ |
+| React.js - ⭐⭐⭐⭐☆ | Firebase - ⭐⭐⭐⭐☆ |
+| Next.js - ⭐⭐⭐⭐☆ | JWT Auth - ⭐⭐⭐⭐☆ |
+| Tailwind CSS - ⭐⭐⭐⭐⭐ |  |
+
+---
+
+
 ## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
