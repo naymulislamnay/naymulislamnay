@@ -94,26 +94,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrnaymationhelp-2032&show_icons=true" />
-</p>
-
----
-
-
----
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnaymationhelp-2032&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🧰 Tools & Platforms
 
 <p align="center">
